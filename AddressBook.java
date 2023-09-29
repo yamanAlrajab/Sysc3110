@@ -25,6 +25,7 @@ public class AddressBook {
         System.out.println(buddy.getName());
         System.out.println("Address Book");
         System.out.println("Address 2");
+        System.out.println("I have made a change here");
         buddies.addBuddy(buddy);
         buddies.removeBuddy(0);
     }
